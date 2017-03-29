@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="gecco_demo" />
+        <module name="httpclient-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="gecco_demo" target="1.7" />
+      <module name="httpclient-demo" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
