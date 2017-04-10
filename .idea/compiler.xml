@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="gecco-java-demo" />
         <module name="gecco-nuomi" />
         <module name="gecco-spring-task" />
         <module name="gecco-test" />
@@ -14,6 +15,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
+      <module name="gecco-java-demo" target="1.5" />
       <module name="gecco-nuomi" target="1.5" />
       <module name="gecco-spring-task" target="1.5" />
       <module name="gecco-test" target="1.5" />

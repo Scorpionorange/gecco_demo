@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/gecco-java-demo/gecco-java-demo.iml" filepath="$PROJECT_DIR$/gecco-java-demo/gecco-java-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/gecco-nuomi/gecco-nuomi.iml" filepath="$PROJECT_DIR$/gecco-nuomi/gecco-nuomi.iml" />
       <module fileurl="file://$PROJECT_DIR$/gecco-spring-task/gecco-spring-task.iml" filepath="$PROJECT_DIR$/gecco-spring-task/gecco-spring-task.iml" />
-      <module fileurl="file://C:\Users\scorp\IdeaProjects\gecco_demo\gecco-spring-task\gecco-spring-task.iml" filepath="C:\Users\scorp\IdeaProjects\gecco_demo\gecco-spring-task\gecco-spring-task.iml" />
       <module fileurl="file://$PROJECT_DIR$/gecco-test/gecco-test.iml" filepath="$PROJECT_DIR$/gecco-test/gecco-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/gecco_demo.iml" filepath="$PROJECT_DIR$/gecco_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/httpclient-demo/httpclient-demo.iml" filepath="$PROJECT_DIR$/httpclient-demo/httpclient-demo.iml" />
